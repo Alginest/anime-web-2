@@ -1,0 +1,24 @@
+:root {
+  --white-color: #fff;
+  --primary-color: #6f0dbf;
+  --black-color: #242424;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+img {
+  width: 100%;
+}
+body {
+  background-color: #242424;
+  height: 100vh;
+}
